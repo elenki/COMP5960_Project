@@ -1,0 +1,5 @@
+pandas
+altair
+vega_datasets
+jupyter
+numpy
